@@ -1,16 +1,24 @@
-### Hi there 👋
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Dilshod<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Front-end engineer at <a href="https://github.com/github-com-S-OrcateamWork">S-Orca
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<!--
-**dilshodsherzodovich/dilshodsherzodovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: dilshod](https://img.shields.io/badge/-dilshod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshod-murodov/)](https://www.linkedin.com/in/dilshod-murodov/)
+![GitHub followers](https://img.shields.io/github/followers/dilshodsherzodovich?label=Follow&style=social)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const dilshod = {
+    pronouns: "He" | "Him",
+    code: [Javascript, Typescript, HTML, CSS],
+    tools: [React, Next, Redux, Redux-toolkit, Node, TailwindCss],
+    architecture: ["Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
