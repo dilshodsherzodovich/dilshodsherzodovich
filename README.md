@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: dilshod](https://img.shields.io/badge/-dilshod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshod-murodov/)](https://www.linkedin.com/in/dilshod-murodov/)
+![Linkedin: dilshod](https://img.shields.io/badge/-dilshod-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dilshod-murodov/)](https://www.linkedin.com/in/dilshod-murodov/)
 ![GitHub followers](https://img.shields.io/github/followers/dilshodsherzodovich?label=Follow&style=social)
 
 
